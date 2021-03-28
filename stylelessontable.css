@@ -20,7 +20,7 @@
 	text-transform: uppercase;
 }
 .ltnewscontainer{
-	margin: 120px auto auto;
+	margin: 130px auto auto;
 	width: 100%;
 	justify-content: center;
 	display: flex;
@@ -34,7 +34,7 @@
 }
 .ltnewscard{
 	width: 400px;
-	height: 270px;
+	height: 280px;
 	margin: 5% 0px;
     border-style: outset;
     border-radius: 0px;
